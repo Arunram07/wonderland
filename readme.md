@@ -19,7 +19,7 @@ Name-Magic Internet Memory
 Symbol-MIM
 Decimals-18
 Underlying-0x0000000000000000000000000000000000000000
-Vault-anyswapv4router address
+Vault-give u r address and then change it to anyswapv4router address
 10.Deploy Time treasury contract (timetokenaddress,mim address)
 11.Delpoy dao.sol -Multisigwalletwithdailylimit – change in dropdown (addressof owners,required)
 Addressofowners – [“ur address”]
@@ -34,6 +34,6 @@ Nextepochtime-1636812000
 
 setContract(\_contract,contract address):
 0,distributor address
-1,warmupcontract
+1,warmupcontract address
 Memotoken contract:
 Initialize(timestakingcontract address)
